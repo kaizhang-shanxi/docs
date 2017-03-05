@@ -3,7 +3,15 @@
 
     
     <url>
-     <loc>https://github.com/kaizhang-shanxi/docs/</loc>
+     <loc>https://kaizhang-shanxi.github.io/docs/</loc>
+     <lastmod>2017-03-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://kaizhang-shanxi.github.io/docs/Arch-Linux/</loc>
      <lastmod>2017-03-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
