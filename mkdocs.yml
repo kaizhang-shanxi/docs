@@ -1,0 +1,15 @@
+site_name: Kai Zhang\'s Docs
+site_author: Kai Zhang
+site_url: https://github.com/kaizhang-shanxi/docs
+
+theme: "material"
+
+extra:
+  social:
+    - type: "github"
+      link: "https://github.com/kaizhang-shanxi"
+
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
